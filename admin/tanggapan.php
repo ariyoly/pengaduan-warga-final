@@ -30,6 +30,7 @@ $result = mysqli_query($conn, "SELECT * FROM laporan ORDER BY created_at DESC");
     <meta charset="UTF-8">
     <title>Kelola Laporan</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="favicon\Frame56.png" type="image/png">
     <style>
         .bento-card {
             border-radius: 1rem;

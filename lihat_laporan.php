@@ -31,6 +31,7 @@ $result = mysqli_query($conn, "SELECT * FROM laporan WHERE user='$username' ORDE
     <meta charset="UTF-8">
     <title>Laporan Saya</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="favicon\Frame56.png" type="image/png">
     <style>
         .laporan-card {
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
